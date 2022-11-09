@@ -1,2 +1,13 @@
-# tc2_VeraMilena
-tarea#2
+# Datos personales
+
+Milena Vera/
+Portoviejo
+
+
+# Detalles del equipo
+
+# Programas utilizados
+
+*Gitbash
+
+*Pyton
